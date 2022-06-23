@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm New Dirac</h1>
+<h1 align="center">Hi 👋, I'm Breyner</h1>
 <h3 align="center">I like the design, the frontend and the universe</h3>
 
 - 🌱 I’m currently learning **Vue, Svelte and Python**
