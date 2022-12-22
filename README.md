@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **angrufront@gmail.com**
 
-- ⚡ **You can and i can**
+- ⚡ **You can and I can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
